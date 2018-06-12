@@ -1,0 +1,4 @@
+name: Ts3Bot
+main: de.cypix.tsbot.mc.main.Main
+version: 1.0
+author: Cypix

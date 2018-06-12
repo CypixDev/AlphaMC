@@ -1,0 +1,6 @@
+name: BungeeSystem
+main: de.Cypix.BungeeSystem.Main.main
+version: 1.0Beta
+author: Cypixx
+
+depends: [LabyModAPI]

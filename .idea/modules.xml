@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlphaAPI/AlphaAPI.iml" filepath="$PROJECT_DIR$/AlphaAPI/AlphaAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildFFA/BuildFFA.iml" filepath="$PROJECT_DIR$/BuildFFA/BuildFFA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BungeeSystem/BungeeSystem.iml" filepath="$PROJECT_DIR$/BungeeSystem/BungeeSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CityBuild/CityBuild.iml" filepath="$PROJECT_DIR$/CityBuild/CityBuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinsAPI/CoinsAPI.iml" filepath="$PROJECT_DIR$/CoinsAPI/CoinsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FFA/FFA.iml" filepath="$PROJECT_DIR$/FFA/FFA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flash/Flash.iml" filepath="$PROJECT_DIR$/Flash/Flash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GunGame/GunGame.iml" filepath="$PROJECT_DIR$/GunGame/GunGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KnockBack/KnockBack.iml" filepath="$PROJECT_DIR$/KnockBack/KnockBack.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/Intelleji Laptop/IntelliJ/Workspace/Vetox/MLG-Rush/MLG-Rush.iml" filepath="$USER_HOME$/Dropbox/Intelleji Laptop/IntelliJ/Workspace/Vetox/MLG-Rush/MLG-Rush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneHit/OneHit.iml" filepath="$PROJECT_DIR$/OneHit/OneHit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SGFFA/SGFFA.iml" filepath="$PROJECT_DIR$/SGFFA/SGFFA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScoreBoard-Lobby/ScoreBoard-Lobby.iml" filepath="$PROJECT_DIR$/ScoreBoard-Lobby/ScoreBoard-Lobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkyPVP/SkyPVP.iml" filepath="$PROJECT_DIR$/SkyPVP/SkyPVP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Survival/Survival.iml" filepath="$PROJECT_DIR$/Survival/Survival.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTT/TTT.iml" filepath="$PROJECT_DIR$/TTT/TTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ts-Bot/Ts-Bot.iml" filepath="$PROJECT_DIR$/Ts-Bot/Ts-Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tägliche-Belohnung/Tägliche-Belohnung.iml" filepath="$PROJECT_DIR$/Tägliche-Belohnung/Tägliche-Belohnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeakMC-Lobby/WeakMC-Lobby.iml" filepath="$PROJECT_DIR$/WeakMC-Lobby/WeakMC-Lobby.iml" />
+    </modules>
+  </component>
+</project>

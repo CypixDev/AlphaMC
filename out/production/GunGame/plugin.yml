@@ -1,0 +1,10 @@
+name: GunGame
+version: 1.0BETA
+author: Cypix
+main: de.cypix.gungame.main.GunGame
+
+commands:
+  setup:
+  setlevel:
+  nextmap:
+  forcemap:

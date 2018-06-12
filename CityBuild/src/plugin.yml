@@ -1,0 +1,36 @@
+name: CityBuild
+version: 1.0Beta
+author: Cypix
+main: de.Cypix.CityBuild.Main.main
+
+commands:
+  home:
+  homes:
+  sethome:
+  day:
+    aliases: d
+  night:
+    aliases: n
+  warp:
+    aliases: w
+  spawn:
+  setspawn:
+  gm:
+  gmc:
+  farmwelt:
+  vanish:
+    aliases: v
+  head:
+  fly:
+  tp:
+  tpa:
+  tpaccept:
+  tpdeny:
+  cc:
+  invsee:
+    aliases: seeinv
+  ec:
+    aliases: enderchest
+  sign:
+  pay:
+  money:

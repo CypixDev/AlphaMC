@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="labymod-server-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dropbox/API/labymod-server-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

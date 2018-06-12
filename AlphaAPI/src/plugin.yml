@@ -1,0 +1,10 @@
+name: AlphaAPI
+version: 1.0
+author: Cypix
+
+main: de.cypix.alphaapi.main.AlphaAPI
+depends: CloudNetAPI
+commands:
+  stats:
+  nick:
+  uuid:

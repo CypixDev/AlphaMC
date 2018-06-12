@@ -1,0 +1,5 @@
+name: ScoreBoard-WeakMC
+version: 1.0
+author: Cypix
+
+main: de.Cypix.ScoreBoard.Main.main

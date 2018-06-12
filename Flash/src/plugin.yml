@@ -1,0 +1,12 @@
+name: Flash
+author: Cypix
+version: 1.0BETA
+main: de.cypix.flash.main.Main
+
+depends: CloudAPI
+
+commands:
+  start:
+  build:
+  flash:
+  troll:

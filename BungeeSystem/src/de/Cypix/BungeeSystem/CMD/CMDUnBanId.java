@@ -1,0 +1,28 @@
+package de.Cypix.BungeeSystem.CMD;
+
+import de.Cypix.BungeeSystem.Manager.BanManager;
+import net.md_5.bungee.api.CommandSender;
+import net.md_5.bungee.api.chat.ComponentBuilder;
+import net.md_5.bungee.api.connection.ProxiedPlayer;
+import net.md_5.bungee.api.plugin.Command;
+
+public class CMDUnBanId extends Command {
+
+    public CMDUnBanId(){
+        super("unbanid");
+    }
+
+
+    @Override
+    public void execute(CommandSender sender, String[] args) {
+        ProxiedPlayer p = (ProxiedPlayer)sender;
+        if(p.hasPermission("weakmc.ban")){
+            if(args.length == 0){
+                p.sendMessage(new ComponentBuilder("Bitte benutze /unbanid <id>").create());
+            }
+            if(args.length == 1){
+                BanManager.unbanId(Integer.valueOf(args[0])) ;
+            }
+        }
+    }
+}

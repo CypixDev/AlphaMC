@@ -1,0 +1,11 @@
+name: BuildFFA
+version: 1.0Beta
+author: Cypix
+
+main: de.cypix.buildffa.main.BuildFFA
+
+depend: [AlphaAPI, CloudNetAPI, Multiverse-Core]
+
+commands:
+  setup:
+  nextmap:

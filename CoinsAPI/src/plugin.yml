@@ -1,0 +1,10 @@
+name: CoinsAPI
+version: 1.2RELEASED
+author: Cypix
+
+main: de.Cypix.CoinsAPI.Main.main
+
+depend: [LabyModAPI]
+
+commands:
+  Coins:

@@ -1,0 +1,8 @@
+name: OneHit
+version: 1.0BETA
+author: Cypix
+
+main: de.Cypix.OneHit.Main.main
+
+commands:
+  oh:

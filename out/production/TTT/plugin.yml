@@ -1,0 +1,10 @@
+name: TTT
+version: 1.0Beta
+author: Cypix
+
+main: de.cypix.ttt.main.Main
+
+commands:
+  ttt:
+  build:
+  start:

@@ -1,0 +1,15 @@
+name: Survival
+version: 1.0
+author: Cypix
+
+main: de.Cypix.Survival.Main.main
+
+commands:
+  survival:
+  spawn:
+  gm:
+  vanish:
+    aliases: v
+  home:
+  homes:
+  sethome:

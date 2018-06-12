@@ -1,0 +1,8 @@
+name: Test
+version: 1.0
+author: Cypix
+
+main: de.Cypix.Test.Main.main
+
+commands:
+  test:

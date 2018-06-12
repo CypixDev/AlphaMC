@@ -1,0 +1,12 @@
+name: Lobby-NEW
+version: 1.0Beta
+author: Cypix
+
+main: de.Cypix.Lobby.Main.main
+
+commands:
+  set:
+  build:
+  test:
+  fly:
+  actionbar:

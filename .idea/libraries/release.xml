@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-1.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-1.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-1.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReactClient-2.5/release/ReactClient-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+name: SGFFA
+version: 1.0Beta
+author: Cypix
+
+main: de.Cypix.SGFFA.Main.main
+
+commands:
+  sgffa:
+  nextmap:
+  forcemap:
+  stats:

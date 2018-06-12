@@ -1,0 +1,13 @@
+name: KnockBack
+version: 1.0BETA
+author: Cypix
+
+main: de.Cypix.KnockBack.Main.main
+
+commands:
+  kb:
+  forcemap:
+  nextmap:
+  stats:
+  kit:
+  build:

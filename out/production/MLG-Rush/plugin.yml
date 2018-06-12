@@ -1,0 +1,7 @@
+name: MLG-Rush
+version: 1.0Beta
+author: Cypix
+main: de.cypix.mlgrush.main.MLGRush
+
+commands:
+  setup:

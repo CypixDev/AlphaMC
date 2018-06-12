@@ -1,0 +1,8 @@
+name: API
+version: 1.0Beta
+author: Cypix
+
+main: de.cypix.api.main.Main
+
+commands:
+  stats:

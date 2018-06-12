@@ -1,0 +1,12 @@
+name: FFA
+version: 1.0Beta
+author: Cypix
+
+main: de.Cypix.FFA.Main.main
+
+commands:
+  ffa:
+  forcemap:
+  stats:
+  build:
+  nextmap:

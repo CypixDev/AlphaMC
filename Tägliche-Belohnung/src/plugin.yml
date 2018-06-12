@@ -1,0 +1,8 @@
+name: Belohnung
+version: 1.0
+author: Cypix
+
+main: de.Cypix.Belohnung.Main.main
+
+commands:
+  belohnung:

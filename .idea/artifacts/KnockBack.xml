@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KnockBack">
+    <output-path>$PROJECT_DIR$/../../../</output-path>
+    <root id="archive" name="KnockBack.jar">
+      <element id="module-output" name="KnockBack" />
+    </root>
+  </artifact>
+</component>
